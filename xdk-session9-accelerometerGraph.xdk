@@ -5,7 +5,7 @@
       "projectTypeName": "com.intel.xdk.projecttype.jsapp",
       "src": "jsapp/template-blank-cordova-project-lite/sample.zip",
       "projectGuid": "a0d66c49-340a-43fb-9769-bf1747982327",
-      "lastModifiedDate": 1480344229683,
+      "lastModifiedDate": 1480346174799,
       "creationDate": 1480344176876
     },
     "XDK-app-designer": "false",
@@ -76,6 +76,24 @@
         "name": "Splashscreen",
         "description": "Cordova Splashscreen Plugin",
         "checksum": "47137083"
+      },
+      {
+        "id": "cordova-plugin-device-motion",
+        "name": "Device Motion",
+        "version": "1.2.1",
+        "originType": "cordova.io",
+        "origin": "cordova-plugin-device-motion",
+        "gitref": "",
+        "paramvals": {},
+        "sourceLocation": "plugins/cordova-plugin-device-motion",
+        "selectedState": "Included",
+        "checksum": "7ee2b23d",
+        "dependsOn": [],
+        "topLevel": true,
+        "permissions": {},
+        "description": "Cordova Device Motion Plugin",
+        "data": {},
+        "dependedBy": []
       }
     ],
     "buildConfigurations": {
